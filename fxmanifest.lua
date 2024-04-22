@@ -4,7 +4,7 @@ lua54 'yes'
 
 author 'HenkW'
 description 'LumberJack Job For ESX'
-version '0.2.6'
+version '0.2.7'
 
 client_scripts {
     '@PolyZone/client.lua',
